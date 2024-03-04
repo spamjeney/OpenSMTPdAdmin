@@ -1,8 +1,8 @@
 # OpenSMTPdAdmin
 
-This is a administration interface for OpenSMTPd based mailing systems and the corresponding applications (e.g. IMAP server, like Dovecot). You can edit your domains, your virtual users, their passwords and basic attributes. You can manage aliases pointing into your domain users, or outside. You can also send emails, however it is not thoroughly tested (and probably not the most wanted feature).
+This is a administration interface for OpenSMTPd based mailing systems and the corresponding applications (e.g. IMAP server, like Dovecot). You can edit your domains, your virtual users, their passwords and basic attributes. You can manage aliases pointing into your domain users, or outside. You can also send emails, however it is not thoroughly tested (and probably not the most wanted feature). Your users can change their passwords.
 
-Fork of OpenSMTPdAdmin of high5.nl (and, thus, PostfixAdmin, of course)
+Fork of OpenSMTPdAdmin of high5.nl (and, thus, PostfixAdmin, of course).
 
 ## Features
 
